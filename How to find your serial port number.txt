@@ -1,0 +1,4 @@
+1.Start
+2.find " device manager"
+3.Select Ports(COM & LPT) from left hand side
+4. You can see your serial port number at the end of the interface name e.g(COM4)

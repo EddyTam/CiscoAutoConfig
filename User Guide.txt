@@ -1,0 +1,20 @@
+Requirements
+1.Install Python 3.6 or above(https://www.python.org/downloads/)
+2.s000.txt(Template Configuration must be in same location with test.py)
+
+Using Flow
+1.Press test.py
+2.Input the serial interface number and press enter
+3.input Dialer account and press enter
+4.input dialer password and press enter
+5.input the store number and press enter
+6.The text file will save in the same location with the program.
+
+Output:
+1.One text file with configuration will be generated
+2.The configuration will be inputed by the serial interface
+
+
+Remark:
+If you input incorrect / blank into the serial interface field. 
+This program will not alert you , it will only output the text file to you.
